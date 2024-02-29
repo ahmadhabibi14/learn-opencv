@@ -1,4 +1,7 @@
 img/*.jpg
 img/*.png
 
-opencv-env/*
+venv
+*.png
+*.jpg
+*.zip
